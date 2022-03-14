@@ -10,10 +10,10 @@ Watch-Hive backend-code goes in here.
 * Slack Channel : https://watch-hive.slack.com/
 
 ## Configurations preferred for watchhivebe
-1) Make sure you have JDK 8 or 11. (JDK 8 is preffered)
+1) Make sure you have JDK 8 or 11. (JDK 8 is preferred)
 2) A perfect IDE is preferred (Intellij comes into picture).
 3) Make sure we have latest version of maven installed in the system.
-4) Adding mvn and jdk in your path variables, preffarable link.
+4) Adding mvn and jdk in your path variables, preferred link.
      https://mkyong.com/java/how-to-set-java_home-environment-variable-on-mac-os-x/
 
 ## How to make watchhivebe alive
